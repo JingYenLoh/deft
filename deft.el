@@ -546,7 +546,7 @@
 
 ;;; Code:
 
-(require 'cl)
+(require 'cl-lib)
 (require 'widget)
 (require 'wid-edit)
 
